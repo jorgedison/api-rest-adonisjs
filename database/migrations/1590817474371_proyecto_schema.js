@@ -17,5 +17,4 @@ class ProyectoSchema extends Schema {
     this.drop('proyectos')
   }
 }
-
 module.exports = ProyectoSchema
