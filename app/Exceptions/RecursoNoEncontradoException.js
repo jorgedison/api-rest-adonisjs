@@ -14,3 +14,4 @@ class RecursoNoEncontradoException extends LogicalException {
 }
 
 module.exports = RecursoNoEncontradoException
+
